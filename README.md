@@ -2,7 +2,7 @@
 
 Project by **Saad Tozibar Rahman**.
 
-A YOLO-based monument detection pipeline with a small Flask web UI.
+A YOLO based monument detection pipeline with a small Flask web UI. 
 
 ## Quick Start
 - Install: `pip install -r requirements.txt`
